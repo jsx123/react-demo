@@ -1,0 +1,15 @@
+[
+    {"src": "./imgs/ranking01.jpg","title": "安利XS·巅峰榜·流行指数","num": "2000.0万","song": [{"id": "1","name": "在人间（Live）","singer": "张韶涵"},{"id": "2","name": "易燃易爆炸（Live）","singer": "华晨宇"},{"id": "3","name": "离人愁","singer": "李袁杰"}]},
+    {"src": "./imgs/ranking02.jpg","title": "巅峰榜·热歌","num": "1980.0万","song": [{"id": "1","name": "FLOWER ROAD (꽃 길)","singer": "BIGBANG (빅뱅)"},{"id": "2","name": "在人间（Live）","singer": "张韶涵"},{"id": "3","name": "体面","singer": "于文文"}]},
+    {"src": "./imgs/ranking03.jpg","title": "巅峰榜·新歌","num": "1960.0万","song": [{"id": "1","name": "在人间（Live）","singer": "张韶涵"},{"id": "2","name": "等你下课","singer": "周杰伦"},{"id": "3","name": "屋顶着火","singer": "宋茜"}]},
+    {"src": "./imgs/ranking04.jpg","title": "全军出击·巅峰榜·歌手2018","num": "1860.0万","song": [{"id": "1","name": "山海（Live）","singer": "华晨宇"},{"id": "2","name": "在人间（Live）","singer": "张韶涵"},{"id": "3","name": "易燃易爆炸","singer": "华晨宇"}]},
+    {"src": "./imgs/ranking05.jpg","title": "巅峰榜·网络歌曲","num": "1200.0万","song": [{"id": "1","name": "柒个我","singer": "陈小希"},{"id": "2","name": "2799","singer": "佳丽"},{"id": "3","name": "其实都知道","singer": "罗之豪"}]},
+    {"src": "./imgs/ranking06.jpg","title": "巅峰榜·内地","num": "1900.0万","song": [{"id": "1","name": "听海","singer": "张碧晨"},{"id": "2","name": "独孤","singer": "金沙"},{"id": "3","name": "放下的时候","singer": "刘烨"}]},
+    {"src": "./imgs/ranking07.jpg","title": "巅峰榜·港台","num": "980.0万","song": [{"id": "1","name": "等你下课","singer": "周杰伦"},{"id": "2","name": "Old Boy","singer": "古巨基"},{"id": "3","name": "慢慢喜欢你","singer": "莫文蔚"}]},
+    {"src": "./imgs/ranking08.jpg","title": "巅峰榜·欧美","num": "1100.0万","song": [{"id": "1","name": "Colors","singer": "Jason Derulo"},{"id": "2","name": "Dancer","singer": "Flo Rida"},{"id": "3","name": "Top Off","singer": "DJ Khaled/Jay Z/Future/Beyoncé"}]},
+    {"src": "./imgs/ranking09.jpg","title": "巅峰榜·韩国","num": "860.0万","song": [{"id": "1","name": "FLOWER ROAD (꽃 길)","singer": "BIGBANG (빅뱅)"},{"id": "2","name": "별이 빛나는 밤(Starry night) (星星闪耀的夜晚)","singer": "MAMAMOO (마마무)"},{"id": "3","name": "Jenga (Feat. Gaeko)","singer": "헤이즈 (Heize)/개코 (Gaeko)"}]},
+    {"src": "./imgs/ranking10.jpg","title": "巅峰榜·影视金曲","num": "780.0万","song": [{"id": "1","name": "听海","singer": "张碧晨"},{"id": "2","name": "独孤","singer": "金沙"},{"id": "3","name": "放下的时候","singer": "刘烨"}]},
+    {"src": "./imgs/ranking11.jpg","title": "巅峰榜·日本","num": "880.0万","song": [{"id": "1","name": "Error","singer": "GARNiDELiA (ガルニデリア)"},{"id": "2","name": "初梦","singer": "初音ミク (初音未来)"},{"id": "3","name": "蒼い炎 (苍蓝色的火焰)","singer": "イトヲカシ (逸动我歌诗)"}]},
+    {"src": "./imgs/ranking12.jpg","title": "巅峰榜·腾讯音乐人原创榜","num": "790.0万","song": [{"id": "1","name": "周末玩具","singer": "旅行团乐队"},{"id": "2","name": "华年","singer": "鹿先森乐队"},{"id": "3","name": "漂流 Floating On The Rio Negro","singer": "鲸鱼马戏团"}]},
+    {"src": "./imgs/ranking13.jpg","title": "巅峰榜·K歌金曲","num": "1220.0万","song": [{"id": "1","name": "成都","singer": "冯鑫"},{"id": "2","name": "你那么爱他","singer": "郑浪听"},{"id": "3","name": "啷个哩个啷","singer": "胡子照"}]}
+]

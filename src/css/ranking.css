@@ -1,0 +1,75 @@
+.ranking{
+    padding: 10px;
+    background: #f4f4f4;
+}
+.ranking li{
+    padding-bottom: 10px;
+}
+.ranking li a{
+    position: relative;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+.ranking li a img{
+    width: 100%;
+    vertical-align: middle;
+}
+.ranking li a span{
+    position: absolute;
+    left: 5px;
+    bottom: 10px;
+    height: 12px;
+    color: #999;
+    font-size: 10px;
+    font-weight: bold;
+}
+.ranking li a span i{
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    background: url(../imgs/list_sprite.png) no-repeat 0 -50px;
+    background-size: 24px 60px;
+    vertical-align: middle;
+}
+
+.ranking li div{
+    position: relative;
+    float: left;
+    width: 230px;
+    padding: 0 15px 8px 10px;
+    background: #fff;
+}
+.ranking li div h3{
+    font-weight: normal;
+    line-height: 30px;
+    padding-bottom: 5px;
+}
+.ranking li div p{
+    color: #999;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.ranking li div span{
+    padding-left: 8px;
+    color: #000;
+}
+.ranking li div i{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    right: 8px;
+    top: 50%;
+    margin-top: -5px;
+    font: 14px/10px '宋体';
+    color: #999;
+}
+
+.ranking .pc{
+    line-height: 40px;
+    text-align: center;
+}
+.ranking .pc a{
+    color: #666;
+}

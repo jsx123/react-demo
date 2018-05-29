@@ -1,0 +1,49 @@
+.search .search_hot{
+    padding: 10px;
+}
+.search_hot h4{
+    font-weight: normal;
+    color: #666;
+    margin-bottom: 10px;
+}
+.search_hot a{
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    height: 30px;
+    border: 1px solid #333;
+    line-height: 30px;
+    padding: 0 10px;
+    border-radius: 99px;
+}
+
+.search_hot .active{
+    color: #fc4524;
+    border-color: #fc4524;
+}
+
+.search_result li{
+    padding: 10px;
+    display: flex;
+}
+.search_result img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+.search_result li .song{
+    font-size: 17px;
+}
+.search_result li .singer{
+    font-size: 13px;
+    color: #999;
+}
+
+.clearfix{zoom: 1;}
+.clearfix:after{
+    content: '';
+    display: block;
+    clear: both;
+}

@@ -1,0 +1,121 @@
+/* header开始 */
+.header{
+  height: 44px;
+  background: #31c27c;
+}
+.header .h-logo{
+  float: left;
+  width: 90px;
+  height: 25px;
+  background: url(../imgs/logo.png) no-repeat 0 0;
+  background-size: 100% 100%;
+  margin: 9px 10px 0;
+}
+.header .download{
+  float: right;
+  width: 80px;
+  height: 28px;
+  border-radius: 90px;
+  font: 14px/28px '微软雅黑';
+  color: #fff;
+  background: #149c5a;
+  margin: 8px 10px 0;
+  text-align: center;
+}
+.nav{
+  display: flex;
+}
+.nav a{
+  position: relative;
+  flex: 1;
+  text-align: center;
+  font: 16px/40px '微软雅黑';
+}
+.nav .active{
+  color: #31c27c;
+}
+.nav .active:after{
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: #31c27c;
+}
+/* header开始 */
+
+/* banner开始 */
+.banner .swiper-container{
+  width: 100%;
+}
+.banner .swiper-container img{
+  width: 100%;
+  vertical-align: middle;
+}
+/* banner结束 */
+
+/* home开始 */
+.home .radio{
+  padding: 0 10px 10px;
+  background: #f4f4f4;
+}
+.home .radio h3{
+  line-height: 50px;
+  color: #333;
+  font-weight: normal;
+}
+.home .radio ul li{
+  float: left;
+  width: 49%;
+  position: relative;
+}
+.home .radio ul li:first-child{
+  margin-right: 2%;
+}
+.home .radio ul li img{
+  width: 100%;
+}
+.home .radio ul li p{
+  padding: 0 0 20px 6px;
+  background: #fff;
+}
+.home .radio ul li i{
+  position: absolute;
+  bottom: 54px;
+  right: 5px;
+  width: 24px;
+  height: 24px;
+  background: url(../imgs/list_sprite.png) no-repeat 0 0;
+  background-size: 24px 60px;
+}
+.home .radio .hot p{
+  text-align: center;
+}
+.home .radio .hot p a{
+  color: #666;
+}
+/* home结束 */
+
+/* footer开始 */
+.home_footer{
+  background: #f4f4f4;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.home_footer .pc{
+  line-height: 40px;
+}
+.home_footer .f_logo{
+  width: 82px;
+  height: 24px;
+  background: url(../imgs/logo_footer.png) no-repeat;
+  background-size: 82px 24px;
+  margin: 6px auto 12px;
+}
+.home_footer .text{
+  font: 12px/20px '微软雅黑';
+  color: #999;
+}
+/* footer结束 */
